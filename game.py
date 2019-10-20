@@ -107,5 +107,5 @@ while True:
         break
 
 gameIntro()
-cap.release()
+video_capture.release()
 cv2.destroyAllWindows()
